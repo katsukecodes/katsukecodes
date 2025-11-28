@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 
 ## Hi, I'm Katsuke 👋
 
-Full-stack engineer | ECE trainee | Builder of useful things
+Full-stack engineer | ECE trainee | Building of useful things
 
 I explore the intersection of software, hardware, and intelligent systems. Whether it's crafting clean and scalable applications, tinkering with embedded systems, or experimenting with AI-driven workflows, I love building things that work.
 
 ### What I Do
 
-Full-stack development – building modern, scalable web apps
+Full-stack development – building modern, scalable web \ mobile apps
 
 Embedded & hardware tinkering – microcontrollers, sensors, automation
 
