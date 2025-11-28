@@ -30,15 +30,6 @@ AI & intelligent systems – integrating ML tools into real-world projects
 
 Systems design – focusing on reliability, clarity, and simplicity
 
-🛠️ Technologies & Tools
-
-Languages: JavaScript, TypeScript, Python, C/C++, Rust (learning), Bash
-
-Frameworks & Libraries: React, Next.js, Express, Node.js, TailwindCSS
-
-Hardware/IoT: Arduino, ESP32, Raspberry Pi, basic PCB work
-
-Other Tools: Git, Docker, Linux, VS Code, Figma
 
 📌 Current Focus
 
@@ -49,21 +40,3 @@ Building scalable web tools and automation workflows
 Exploring the bridge between embedded systems and cloud apps
 
 Experimenting with AI-driven applications for productivity
-
-📂 Featured Projects
-
-Smart IoT Dashboard – real-time sensor monitoring + ESP32 backend (in progress)
-
-Full-stack marketplace – scalable design for local creators
-
-AI workflow toolkit – templates for automation-heavy development
-
-(More projects coming soon — still cleaning up old repos!)
-
-📫 Connect With Me
-
-GitHub: @michealtynolan
-
-LinkedIn: Your LinkedIn
-
-Email: your.email@example.com
